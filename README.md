@@ -1,6 +1,6 @@
 ## [Search Algorithms](https://martianvenusianorg.github.io/search-algorithms)
 
-Bu yerda siz Search Algorithmlarga doir bilimlarni o'rganasiz
+*Bu yerda siz Search Algorithmlarga doir bilimlarni o'rganasiz*
 
 ## [Machine Learning](https://martianvenusianorg.github.io/machine-learning/)
 
