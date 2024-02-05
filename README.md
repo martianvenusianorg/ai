@@ -1,3 +1,7 @@
+## [Solving Problems by Searching](https://martianvenusianorg.github.io/solving-problems-by-searching)
+
+*Bu yerda siz Solving Problems by Searchingga doir bilimlarni o'rganasiz*
+
 ## [Search in Complex Environments](https://martianvenusianorg.github.io/search-in-complex-environments)
 
 *Bu yerda siz Search in Complex Environmentsga doir bilimlarni o'rganasiz*
