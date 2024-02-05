@@ -1,4 +1,4 @@
-## [Problem-solving](https://martianvenusianorg.github.io/solving-problems-by-searching)
+## [Problem-solving](https://martianvenusianorg.github.io/problem-solving)
 
 *Bu yerda siz Solving Problems by Searching, Searching in Complex Environments, Constraint Satisfaction Problems, Adversarial Search and Games mavzulariga doir bilimlarni o'rganasiz*
 
