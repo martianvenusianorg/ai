@@ -1,6 +1,6 @@
-## [Search Algorithms](https://martianvenusianorg.github.io/search-algorithms)
+## [Search in Complex Environments](https://martianvenusianorg.github.io/search-in-complex-environments)
 
-*Bu yerda siz Search Algorithmlarga doir bilimlarni o'rganasiz*
+*Bu yerda siz Search in Complex Environmentsga doir bilimlarni o'rganasiz*
 
 ## [Machine Learning](https://martianvenusianorg.github.io/machine-learning/)
 
